@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Code Scanner</string>
+    <string name="scan_single_code">Skanuj kod</string>
+    <string name="scan_multiple_codes">Skanuj wiele kodów</string>
+    <string name="scan_selected_codes">Skanuj wybrane kody</string>
+    <string name="highlight_entered_code">Wykryj wprowadzony kod</string>
+    <string name="scan_history">Historia skanów</string>
+    <string name="settings">Ustawienia</string>
+    <string name="camera_permission_rationale">Musisz przyznać dostęp do aparatu, aby korzystać z funkcji skanera.</string>
+    <string name="grant_access">Przyznaj dostęp</string>
+    <string name="write_a_comment">Napisz komentarz...</string>
+    <string name="date">Data</string>
+    <string name="codes">Kody</string>
+    <string name="delete">Usuń</string>
+    <string name="save">Zapisz</string>
+    <string name="scan_type">Typ skanu</string>
+    <string name="scan_details">Szczegóły skanu</string>
+    <string name="scanned_codes">Zeskanowane kody</string>
+    <string name="comment">Komentarz</string>
+    <string name="scan_history_is_empty">Historia skanów jest pusta</string>
+    <string name="no_codes_yet">Brak kodów</string>
+    <string name="scanned">Zeskanowano</string>
+    <string name="removed">Usunięto</string>
+    <string name="enter_code">Wprowadź kod</string>
+    <string name="textfield_enter_code">Wprowadź kod...</string>
+    <string name="general_settings">Ustawienia ogólne</string>
+    <string name="app_language">Język aplikacji</string>
+    <string name="sound_signal_when_code_found">Sygnał dźwiękowy przy znalezieniu kodu</string>
+    <string name="scanner_settings">Ustawienia skanera</string>
+    <string name="formats_of_detected_codes">Formaty wykrywanych kodów</string>
+    <string name="settings_format_info">Wybierz formaty wykrywane przez skaner:</string>
+    <string name="settings_app_language_info">Wybierz język aplikacji:</string>
+</resources>
