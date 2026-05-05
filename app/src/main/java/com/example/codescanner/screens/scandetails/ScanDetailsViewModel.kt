@@ -35,8 +35,10 @@ class ScanDetailsViewModel(
     }
 
     fun update(scan : Scan) {
+        val trimmedComment = comment.trim()
+        comment = trimmedComment
         viewModelScope.launch {
-            dao.updateScan(scan.copy(comment = comment.trim()))
+            dao.updateScan(scan.copy(comment = trimmedComment))
         }
     }
 
